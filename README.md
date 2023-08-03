@@ -1,1 +1,1 @@
-# Ai-Prmpt-Examples
+# Ai-Prompt-Examples
